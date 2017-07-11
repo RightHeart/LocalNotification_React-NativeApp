@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "700750308687",
+    "firebase_url": "https://goalish-922dd.firebaseio.com",
+    "project_id": "goalish-922dd",
+    "storage_bucket": "goalish-922dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700750308687:android:a135ce70245edca3",
+        "android_client_info": {
+          "package_name": "com.goalish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700750308687-k9ckij3hmoooncoto564hpl7bhu4ksih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHXfUk909gZ3uE-_B01Rp9GoQd9cNfSfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
